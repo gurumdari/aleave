@@ -24,3 +24,13 @@ A-leave는 JEE 기반의 Web Application으로써, Dynamic Web Module 3.1 이상
 <p align="center"><img src="images/html5.png?raw=true" width="352" /></p>
 
 <p align="center"><img src="images/ie10_11.png?raw=true" width="352" /></p>
+
+### 테마 지원 (1.9 버전부터)
+eye-protect, light, dark 테마를 적용할 수 있다.
+
+<p align="center"><img src="images/theme.png?raw=true" width="820" /></p>
+
+### 기부 Donate
+A-leave는 Jnode Framework를 기반으로 만들어진 무료 소프트웨어이다! 만약 A-leave와 Jnode Framework을 사용하면서 유용하다고 생각했다면, 자발적인 기부를 부탁드린다. 금액에 상관없이 참여한 기부금에 대해 보다 나은 A-leave와 Jnode Framework 개발로 보답하겠다. 아울러 우리 나라에서도 공개 소프트웨어가 활성화되고, 기부문화도 활성화되는 계기가 되었으면 한다.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6YYMTECUZXM9S)
